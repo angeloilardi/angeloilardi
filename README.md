@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Angelo Ilardi
 
-- 🔭 I’m currently working on https://currency-x.vercel.app/
+- 🔭 I’m currently working on [CURRENCY-X](https://currency-x.vercel.app/)
 - 🌱 I’m currently learning TypeScript
 - 💬 Ask me about Next.js
 - 🤔 I’m looking for help with testing
