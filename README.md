@@ -1,9 +1,10 @@
 ### Hi there 👋 I'm Angelo Ilardi
 
-- 🔭 I’m currently working on React
+- 🔭 I’m currently working on https://currency-x.vercel.app/
 - 🌱 I’m currently learning TypeScript
-- 🤔 I’m looking for help with other JS frameworks
-- 👯 I’m looking to collaborate on all things Front-End Dev
+- 💬 Ask me about Next.js
+- 🤔 I’m looking for help with testing
+- 👯 I’m looking to collaborate on Svelte/SvelteKit projects
 
 <!--
 **helldorado82/helldorado82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
